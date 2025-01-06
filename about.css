@@ -55,9 +55,13 @@
 }
 .content .fun{
     line-height: 1.5;
-   
+    padding-left: 20px;
 }
 .content .work{
     padding-left: 20px;
     margin-bottom: 200px;
+}
+ul li a{
+    color: white;
+    
 }
